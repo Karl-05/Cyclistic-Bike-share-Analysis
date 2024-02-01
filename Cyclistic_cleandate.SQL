@@ -13,7 +13,7 @@ FROM tripdata12;
 SELECT COUNT(*)
 FROM tripdata01;
 
---Manipulation of data and time
+--Manipulation of date and time
 --Getting the difference between Started_at and Ended_time time
 SELECT 
 started_at,
